@@ -17,7 +17,7 @@ public class Belanja {
         this.cost = harga;
     }
 
-    public void setJumBarang(int jumlah){
+    public void setJumBelanja(int jumlah){
         this.jum = jumlah;
     }
 
